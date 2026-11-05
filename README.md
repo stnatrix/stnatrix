@@ -2,7 +2,7 @@
 
 # stnatrix
 
-### ⚡ Vibe-Coded Architecture · Zero-Bloat Utilities · Self-Hosted Tools
+###  Vibe-Coded Architecture · Zero-Bloat Utilities · Self-Hosted Tools
 
 *AI writes the boilerplate. I design the system, enforce resource bounds, and ship tools that just work.*
 
